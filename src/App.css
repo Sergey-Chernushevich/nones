@@ -42,6 +42,7 @@ input {
   font: font;
 }
 .del_btn {
+  font-size: 25px;
   position: absolute;
   right: 5px;
   top: 5px;
