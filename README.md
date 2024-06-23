@@ -1,1 +1,1 @@
-#https://sergey-chernushevich.github.io/notes/
+https://sergey-chernushevich.github.io/notes/
